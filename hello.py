@@ -1,1 +1,0 @@
-print("This is redhat demo for using sandbox workspaces")
